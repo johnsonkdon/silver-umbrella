@@ -21,7 +21,6 @@ module.exports = function (grunt) {
   require('jit-grunt')(grunt, {
     useminPrepare: 'grunt-usemin',
     buildcontrol: 'grunt-build-control'
-});
   });
 
   // Configurable paths
